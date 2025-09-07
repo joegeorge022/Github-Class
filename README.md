@@ -17,7 +17,7 @@ Welcome to your comprehensive guide for learning GitHub and Git fundamentals! Th
     </div>
   </a>
 
-  <a href="github/" style="text-decoration: none; color: inherit;">
+  <a href="github/" target="_blank" style="text-decoration: none; color: inherit;">
     <div style="display: flex; flex-direction: column; align-items: center;">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
            alt="GitHub Logo" 
