@@ -1,10 +1,14 @@
 # GitHub Reference Guide
 
-[← Back](../README.md)
+<div style="margin-bottom: 20px;">
+  <a href="../README.md" 
+     style="display: inline-flex; align-items: center; padding: 8px 14px; background-color: #f3f4f6; color: #333; text-decoration: none; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; transition: background-color 0.3s ease;">
+    <span style="font-size: 18px; margin-right: 6px;">←</span> Back
+  </a>
+</div>
 
-*Complete GitHub guide for students - collaboration and project management*
 
-## 📖 Additional Learning Resources
+## 📖 Learning Resources
 
 - [GitHub Basics](https://docs.github.com/en/get-started){:target="_blank"}
 - [GitHub Advanced](https://skills.github.com/){:target="_blank"}
