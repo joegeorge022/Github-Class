@@ -3,15 +3,29 @@
 Welcome to your comprehensive guide for learning GitHub and Git fundamentals! This course will take you from beginner to confident user of version control systems.
 
 ## Course Navigation
-- [Git](git/) - Complete Git commands and workflows
-- [GitHub](github/) - Collaboration and project management
 
-<div style="display: flex; justify-content: center; gap: 40px; margin: 30px 0;">
-  <a href="git/" style="text-decoration: none;">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="80" height="80" style="transition: transform 0.3s ease; border-radius: 8px;">
+<div style="display: flex; justify-content: center; gap: 40px; margin: 30px 0; text-align: center;">
+  
+  <a href="git/" style="text-decoration: none; color: inherit;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" 
+           alt="Git Logo" 
+           width="80" 
+           height="80" 
+           style="transition: transform 0.3s ease; border-radius: 8px;">
+      <span style="margin-top: 8px; font-size: 16px; font-weight: 500;">Git</span>
+    </div>
   </a>
-  <a href="github/" style="text-decoration: none;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="80" height="80" style="transition: transform 0.3s ease; border-radius: 8px;">
+
+  <a href="github/" style="text-decoration: none; color: inherit;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
+           alt="GitHub Logo" 
+           width="80" 
+           height="80" 
+           style="transition: transform 0.3s ease; border-radius: 8px;">
+      <span style="margin-top: 8px; font-size: 16px; font-weight: 500;">GitHub</span>
+    </div>
   </a>
 </div>
 
