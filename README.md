@@ -19,8 +19,6 @@ By the end of this class, you will be able to:
 
 ## Study Materials
 
-Perfect for a 1-hour class with ongoing reference:
-
 ### [Git Fundamentals](git/)
 Complete reference for Git commands:
 - Initial setup and configuration
@@ -61,8 +59,9 @@ Everything about GitHub collaboration:
 
 ## Additional Resources
 
-- [Official Git Documentation](https://git-scm.com/doc)
-- [GitHub Guides](https://guides.github.com/)
+- [Official Git Documentation](https://git-scm.com/doc){:target="_blank"}
+- [Git Guides](https://github.com/git-guides){:target="_blank"}
+- [GitHub Guides](https://guides.github.com/){:target="_blank"}
 
 ## Support
 
