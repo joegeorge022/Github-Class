@@ -6,6 +6,15 @@ Welcome to your comprehensive guide for learning GitHub and Git fundamentals! Th
 - [Git](git/) - Complete Git commands and workflows
 - [GitHub](github/) - Collaboration and project management
 
+<div style="display: flex; justify-content: center; gap: 40px; margin: 30px 0;">
+  <a href="git/" style="text-decoration: none;">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="80" height="80" style="transition: transform 0.3s ease; border-radius: 8px;">
+  </a>
+  <a href="github/" style="text-decoration: none;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="80" height="80" style="transition: transform 0.3s ease; border-radius: 8px;">
+  </a>
+</div>
+
 ---
 
 ## Course Objectives
