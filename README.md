@@ -2,13 +2,12 @@
 
 Welcome to your comprehensive guide for learning GitHub and Git fundamentals! This course will take you from beginner to confident user of version control systems.
 
-## 🚀 Quick Navigation
-- [📖 Full Course Overview](#course-overview) (this page)
-- [🏠 Interactive Home Page](pages/home.md)
+## 🚀 Course Navigation
+- [⚡ Git Reference Guide](git/) - Complete Git commands and workflows
+- [🐙 GitHub Reference Guide](github/) - Collaboration and project management
 
 ---
 
-<a name="course-overview"></a>
 ## 🎯 Course Objectives
 
 By the end of this class, you will be able to:
@@ -18,79 +17,62 @@ By the end of this class, you will be able to:
 - Manage repositories, branches, and pull requests
 - Implement best practices for code collaboration
 
-## 📚 Course Modules
+## 📚 Study Materials
 
-### Module 1: Git Fundamentals
-- What is version control?
-- Installing and configuring Git
-- Basic Git commands (`init`, `add`, `commit`, `status`)
-- Understanding the Git workflow
+Perfect for a 1-hour class with ongoing reference:
 
-### Module 2: Working with Repositories
-- Creating your first repository
-- Cloning repositories
-- Understanding `.gitignore`
-- Managing files and directories
+### 🔧 [Git Fundamentals](git/)
+Complete reference for Git commands:
+- Initial setup and configuration
+- Repository basics (init, clone, status)
+- Saving changes (add, commit, push)
+- Branching and merging
+- Handling conflicts
+- Practice exercises and troubleshooting
 
-### Module 3: Branching and Merging
-- Understanding branches
-- Creating and switching branches
-- Merging strategies
-- Resolving conflicts
+### 🌐 [GitHub Mastery](github/)
+Everything about GitHub collaboration:
+- Account setup and first repository
+- Issues and pull requests
+- Forking and team collaboration
+- GitHub Pages and Actions
+- Project management tools
+- Best practices and security
 
-### Module 4: GitHub Essentials
-- Creating a GitHub account
-- Pushing to remote repositories
-- Forking and cloning
-- GitHub Desktop vs Command Line
+## 📝 Class Structure
 
-### Module 5: Collaboration
-- Pull requests and code reviews
-- Issues and project management
-- Team workflows
-- Best practices for collaboration
+### During the 1-Hour Session
+1. **Setup** (10 min): Install Git, create GitHub account
+2. **Git Basics** (20 min): First repository, basic commands
+3. **GitHub Introduction** (20 min): Push to GitHub, create pull request
+4. **Hands-on Practice** (10 min): Complete workflow exercise
 
-### Module 6: Advanced Topics
-- GitHub Pages (like this website!)
-- GitHub Actions basics
-- Open source contribution
-- Portfolio building with GitHub
+### Post-Class Study Plan
+1. Review [Git Reference Guide](git/) - practice all commands
+2. Explore [GitHub Reference Guide](github/) - try collaboration features
+3. Complete the practice exercises in each section
+4. Build your first project using both Git and GitHub
 
 ## 🛠️ Prerequisites
 
 - Basic computer literacy
 - Text editor of your choice
-- Willingness to learn!
+- Willingness to learn
 
-## 📖 Resources
+## 📖 Additional Resources
 
 - [Official Git Documentation](https://git-scm.com/doc)
 - [GitHub Guides](https://guides.github.com/)
 - [Interactive Git Tutorial](https://learngitbranching.js.org/)
 
-## 🚀 Getting Started
-
-1. Install Git on your computer
-2. Create a GitHub account
-3. Configure your Git identity
-4. Create your first repository
-
-## 📝 Assignments
-
-Throughout this course, you'll complete hands-on assignments that build upon each other:
-- Assignment 1: Create your first repository
-- Assignment 2: Practice branching and merging
-- Assignment 3: Collaborate on a group project
-- Final Project: Build a portfolio website using GitHub Pages
-
 ## 💬 Support
 
-If you need help during the course:
-- Check the course materials first
-- Ask questions during class
+For help during or after the course:
+- Consult the detailed guides in [git/](git/) and [github/](github/) folders
 - Use GitHub Issues for technical problems
+- Practice with the provided exercises
 - Collaborate with classmates
 
 ---
 
-*This website is built using GitHub Pages with the Cayman theme - a perfect example of what you'll learn to create!*
+*This website is built using GitHub Pages with the Cayman theme - demonstrating the concepts you'll learn in this course.*
