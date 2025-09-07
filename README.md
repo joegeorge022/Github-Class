@@ -6,7 +6,7 @@ Welcome to your comprehensive guide for learning GitHub and Git fundamentals! Th
 
 <div style="display: flex; justify-content: center; gap: 40px; margin: 30px 0; text-align: center;">
   
-  <a href="git/" style="text-decoration: none; color: inherit;">
+  <a href="git/" target="_blank" style="text-decoration: none; color: inherit;">
     <div style="display: flex; flex-direction: column; align-items: center;">
       <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" 
            alt="Git Logo" 
