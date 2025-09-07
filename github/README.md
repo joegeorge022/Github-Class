@@ -4,6 +4,11 @@
 
 *Complete GitHub guide for students - collaboration and project management*
 
+## 📖 Additional Learning Resources
+
+- [GitHub Basics](https://guides.github.com/){:target="_blank"}
+- [GitHub Advanced](https://skills.github.com/){:target="_blank"}
+
 ## 🚀 Getting Started with GitHub
 
 ### Creating Your GitHub Account

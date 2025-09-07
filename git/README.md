@@ -10,8 +10,9 @@
 
 ## 📖 Additional Learning Resources
 
+- [Git Basics](https://github.com/git-guides){:target="_blank"}
 - [W3Schools Git Tutorial](https://www.w3schools.com/git/){:target="_blank"}
-- [Git Guide](https://github.com/git-guides){:target="_blank"}
+
 
 ---
 
