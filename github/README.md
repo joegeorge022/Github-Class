@@ -1,5 +1,7 @@
 # GitHub Reference Guide
 
+[← Back](../README.md)
+
 *Complete GitHub guide for students - collaboration and project management*
 
 ## 🚀 Getting Started with GitHub

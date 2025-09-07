@@ -1,10 +1,12 @@
 # Git Reference Guide
 
+[← Back](../README.md)
+
 *Complete Git guide for students - everything you need to know after class*
 
 ## 📥 Download Resources
 
-**[📄 Download Git PDF Guide](../files/git.pdf)** - Comprehensive Git reference for offline study
+[📄 Download Git PDF Guide](../files/git.pdf){:target="_blank"} - Comprehensive Git reference for offline study
 
 ## 📖 Additional Learning Resources
 
