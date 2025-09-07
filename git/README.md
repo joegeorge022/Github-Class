@@ -7,8 +7,6 @@
   </a>
 </div>
 
-*Complete Git guide for students - everything you need to know after class*
-
 ---
 
 ## Learning Resources
