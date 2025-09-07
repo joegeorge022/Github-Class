@@ -2,6 +2,13 @@
 
 Welcome to your comprehensive guide for learning GitHub and Git fundamentals! This course will take you from beginner to confident user of version control systems.
 
+## 🚀 Quick Navigation
+- [📖 Full Course Overview](#course-overview) (this page)
+- [🏠 Interactive Home Page](pages/home.md)
+
+---
+
+<a name="course-overview"></a>
 ## 🎯 Course Objectives
 
 By the end of this class, you will be able to:

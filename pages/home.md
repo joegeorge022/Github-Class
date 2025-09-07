@@ -44,7 +44,7 @@ Track your journey through our structured learning modules:
 
 ## 🎯 Ready to Begin?
 
-[View Full Course Content](README.md){: .btn .btn-primary}
+[View Full Course Content](../README.md){: .btn .btn-primary}
 
 ---
 
