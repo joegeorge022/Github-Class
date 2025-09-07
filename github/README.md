@@ -1,7 +1,7 @@
 # GitHub Reference Guide
 
 <div style="margin-bottom: 20px;">
-  <a href="../README.md" 
+  <a href="../" 
      style="display: inline-flex; align-items: center; padding: 8px 14px; background-color: #f3f4f6; color: #333; text-decoration: none; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; transition: background-color 0.3s ease;">
     <span style="font-size: 18px; margin-right: 6px;">←</span> Back
   </a>
