@@ -1,0 +1,33 @@
+# Site settings
+title: "Introduction to GitHub and Git"
+description: "A comprehensive guide to learning GitHub and Git fundamentals"
+author: "Your Name"
+email: "your.email@example.com"
+
+# GitHub Pages settings
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# GitHub repository information
+github:
+  repository_url: https://github.com/joegeorge022/Github-Class
+
+# Navigation and content settings
+show_downloads: false
+google_analytics: # Add your GA tracking ID if needed
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
