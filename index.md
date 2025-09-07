@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Introduction to GitHub and Git
 
 Welcome to your comprehensive guide for learning GitHub and Git fundamentals! This course will take you from beginner to confident user of version control systems.
