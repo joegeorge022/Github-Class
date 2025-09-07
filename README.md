@@ -61,7 +61,7 @@ Everything about GitHub collaboration:
 
 - [Official Git Documentation](https://git-scm.com/doc){:target="_blank"}
 - [Git Guides](https://github.com/git-guides){:target="_blank"}
-- [GitHub Guides](https://guides.github.com/){:target="_blank"}
+- [GitHub Guides](https://docs.github.com/en/get-started){:target="_blank"}
 
 ## Support
 

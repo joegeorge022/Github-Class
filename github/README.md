@@ -6,7 +6,7 @@
 
 ## 📖 Additional Learning Resources
 
-- [GitHub Basics](https://guides.github.com/){:target="_blank"}
+- [GitHub Basics](https://docs.github.com/en/get-started){:target="_blank"}
 - [GitHub Advanced](https://skills.github.com/){:target="_blank"}
 
 ## 🚀 Getting Started with GitHub
