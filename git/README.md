@@ -10,9 +10,9 @@
 
 ## 📖 Additional Learning Resources
 
-- [W3Schools Git Tutorial](https://www.w3schools.com/git/) - Interactive Git learning
-- [Official Git Documentation](https://git-scm.com/doc)
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
+- [W3Schools Git Tutorial](https://www.w3schools.com/git/){:target="_blank"} - Interactive Git learning
+- [Official Git Documentation](https://git-scm.com/doc){:target="_blank"}
+- [Atlassian Git Tutorials](https://www.atlassian.com/git/glossary#commands){:target="_blank"}
 
 ---
 

@@ -7,7 +7,7 @@
 ## 🚀 Getting Started with GitHub
 
 ### Creating Your GitHub Account
-1. Go to [github.com](https://github.com)
+1. Go to [github.com](https://github.com){:target="_blank"}
 2. Click "Sign up"
 3. Choose a username (this will be part of your profile URL)
 4. Use your real email address

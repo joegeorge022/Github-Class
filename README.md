@@ -2,13 +2,13 @@
 
 Welcome to your comprehensive guide for learning GitHub and Git fundamentals! This course will take you from beginner to confident user of version control systems.
 
-## 🚀 Course Navigation
-- [⚡ Git Reference Guide](git/) - Complete Git commands and workflows
-- [🐙 GitHub Reference Guide](github/) - Collaboration and project management
+## Course Navigation
+- [Git](git/) - Complete Git commands and workflows
+- [GitHub](github/) - Collaboration and project management
 
 ---
 
-## 🎯 Course Objectives
+## Course Objectives
 
 By the end of this class, you will be able to:
 - Understand the fundamentals of version control
@@ -17,11 +17,11 @@ By the end of this class, you will be able to:
 - Manage repositories, branches, and pull requests
 - Implement best practices for code collaboration
 
-## 📚 Study Materials
+## Study Materials
 
 Perfect for a 1-hour class with ongoing reference:
 
-### 🔧 [Git Fundamentals](git/)
+### [Git Fundamentals](git/)
 Complete reference for Git commands:
 - Initial setup and configuration
 - Repository basics (init, clone, status)
@@ -30,7 +30,7 @@ Complete reference for Git commands:
 - Handling conflicts
 - Practice exercises and troubleshooting
 
-### 🌐 [GitHub Mastery](github/)
+### [GitHub Mastery](github/)
 Everything about GitHub collaboration:
 - Account setup and first repository
 - Issues and pull requests
@@ -39,7 +39,7 @@ Everything about GitHub collaboration:
 - Project management tools
 - Best practices and security
 
-## 📝 Class Structure
+## Class Structure
 
 ### During the 1-Hour Session
 1. **Setup** (10 min): Install Git, create GitHub account
@@ -53,19 +53,18 @@ Everything about GitHub collaboration:
 3. Complete the practice exercises in each section
 4. Build your first project using both Git and GitHub
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 - Basic computer literacy
 - Text editor of your choice
 - Willingness to learn
 
-## 📖 Additional Resources
+## Additional Resources
 
 - [Official Git Documentation](https://git-scm.com/doc)
 - [GitHub Guides](https://guides.github.com/)
-- [Interactive Git Tutorial](https://learngitbranching.js.org/)
 
-## 💬 Support
+## Support
 
 For help during or after the course:
 - Consult the detailed guides in [git/](git/) and [github/](github/) folders
