@@ -1,18 +1,28 @@
 # Git Reference Guide
 
-[← Back](../README.md)
+<div style="margin-bottom: 20px;">
+  <a href="../README.md" 
+     style="display: inline-flex; align-items: center; padding: 8px 14px; background-color: #f3f4f6; color: #333; text-decoration: none; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; transition: background-color 0.3s ease;">
+    <span style="font-size: 18px; margin-right: 6px;">←</span> Back
+  </a>
+</div>
 
 *Complete Git guide for students - everything you need to know after class*
 
-## 📥 Download Resources
+---
 
-[📄 Download Git PDF Guide](../files/git.pdf){:target="_blank"} - Comprehensive Git reference for offline study
+## Learning Resources
 
-## 📖 Additional Learning Resources
+<div style="display: flex; align-items: center; gap: 12px; margin: 20px 0;">
+  <a href="../files/git.pdf" target="_blank" 
+     style="display: flex; align-items: center; text-decoration: none; color: #333; padding: 10px 15px; background: #f9f9f9; border: 1px solid #ddd; border-radius: 8px; transition: background-color 0.3s ease;">
+    <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="PDF Icon" width="30" height="30" style="margin-right: 10px;">
+    <span style="font-size: 16px; font-weight: 500;">Git Cheatsheet (PDF)</span>
+  </a>
+</div>
 
-- [Git Basics](https://github.com/git-guides){:target="_blank"}
+- [Git Basics](https://github.com/git-guides){:target="_blank"}  
 - [W3Schools Git Tutorial](https://www.w3schools.com/git/){:target="_blank"}
-
 
 ---
 
