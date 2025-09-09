@@ -74,6 +74,36 @@ Everything about GitHub collaboration:
 3. Complete the practice exercises in each section
 4. Build your first project using both Git and GitHub
 
+### Video Tutorial Git & Github
+
+<style>
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    background: #000;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 12px;
+}
+</style>
+
+<div class="video-container">
+<iframe width="1056" height="594" src="https://www.youtube.com/embed/S7XpTAnSDL4" title="Git &amp; GitHub Tutorial | Visualized Git Course for Beginner &amp; Professional Developers in 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
 ## Prerequisites
 
 - Basic computer literacy
