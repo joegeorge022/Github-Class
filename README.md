@@ -18,6 +18,11 @@ Storing your code in a "repository" on GitHub allows you to:
 
 Collaborative working, one of GitHub’s fundamental features, is made possible by the open-source software, Git, upon which GitHub is built.
 
+  <a href="github/" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="38" height="38" style="border-radius: 6px;" />
+    <span style="font-weight: 600;">Open GitHub Guide</span>
+  </a>
+
 ## About Git
 
 <div style="display: flex; align-items: center; gap: 12px; margin: 8px 0 12px 0;">
@@ -31,6 +36,11 @@ Git is particularly useful when you and a group of people are all making changes
 2. Make edits to the files independently and safely on your own personal branch.
 3. Let Git intelligently merge your specific changes back into the main copy of files, so that your changes don't impact other people's updates.
 4. Let Git keep track of your and other people's changes, so you all stay working on the most up-to-date version of the project.
+
+  <a href="git/" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa;">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="38" height="38" style="border-radius: 6px;" />
+    <span style="font-weight: 600;">Open Git Guide</span>
+  </a>
 
 ---
 
@@ -75,17 +85,6 @@ Git is particularly useful when you and a group of people are all making changes
 2. Explore [GitHub Reference Guide](github/) - try collaboration features
 3. Watch video tutorials on youtube to learn and understand more. 
 4. Build your first project using both Git and GitHub
-
-<div style="display: flex; justify-content: center; gap: 28px; flex-wrap: wrap; margin: 16px 0 8px 0;">
-  <a href="git/" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa;">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="38" height="38" style="border-radius: 6px;" />
-    <span style="font-weight: 600;">Open Git Guide</span>
-  </a>
-  <a href="github/" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="38" height="38" style="border-radius: 6px;" />
-    <span style="font-weight: 600;">Open GitHub Guide</span>
-  </a>
-</div>
 
 ### Video Tutorial Git & Github
 
