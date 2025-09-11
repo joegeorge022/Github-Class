@@ -32,23 +32,36 @@ Welcome to your comprehensive guide for learning GitHub fundamentals! This cours
 ---
 
 
-## First Step: Create Your GitHub Account
+## Create Your GitHub Account
 
-- Go to [github.com](https://github.com) and create an account.
-- Verify your email address to complete setup.
-- We will continue with the rest of the setup after this step.
+<div style="padding: 16px; border: 2px solid #2ea043; border-radius: 12px; background: #f0fff4; margin: 16px 0;">
+  <div style="font-weight: 700; font-size: 18px; margin-bottom: 8px;">✅ Prerequisite</div>
+  <div style="font-size: 15px; line-height: 1.6;">
+    Create your GitHub account before starting the steps below.
+  </div>
+  <div style="margin-top: 12px;">
+    <a href="https://github.com" target="_blank" style="display: inline-block; padding: 10px 16px; background: #2ea043; color: #fff; border-radius: 8px; text-decoration: none; font-weight: 600;">Create Account on GitHub</a>
+  </div>
+</div>
 
-## Second Step: Do "Introduction to GitHub"
+## First Step: Do "Introduction to GitHub"
 
 - Open the GitHub Skills course: [Introduction to GitHub](https://github.com/skills/introduction-to-github)
 - Click "Start course" and follow the instructions in the generated repository.
+<div style="margin-top: 8px;">
+  <a href="https://github.com/skills/introduction-to-github" target="_blank" style="display: inline-block; padding: 10px 16px; background: #0969da; color: #fff; border-radius: 8px; text-decoration: none; font-weight: 600;">Start the Course</a>
+</div>
 
-## Third Step: Create a Profile Card (Fork & Edit)
+## Second Step: Create a Profile Card (Fork & Edit)
 
 - Fork this repository: [joegeorge022/profile](https://github.com/joegeorge022/profile)
 - In your fork, edit the files (e.g., `index.html`, `README.md`) to add your name, bio, and links.
 - Commit and push your changes to your fork.
 - Optional: Enable GitHub Pages to view it at `https://YOUR-USERNAME.github.io/profile/`.
+<div style="margin-top: 8px; display: flex; gap: 8px; flex-wrap: wrap;">
+  <a href="https://github.com/joegeorge022/profile/fork" target="_blank" style="display: inline-block; padding: 10px 16px; background: #8250df; color: #fff; border-radius: 8px; text-decoration: none; font-weight: 600;">Fork this Repo</a>
+  <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site" target="_blank" style="display: inline-block; padding: 10px 16px; background: #6e7781; color: #fff; border-radius: 8px; text-decoration: none; font-weight: 600;">Enable GitHub Pages</a>
+</div>
 
 ---
 
