@@ -1,6 +1,6 @@
-# Introduction to GitHub and Git
+# Introduction to GitHub
 
-Welcome to your comprehensive guide for learning GitHub and Git fundamentals! This course will take you from beginner to confident user of version control systems.
+Welcome to your comprehensive guide for learning GitHub fundamentals! This course will take you from beginner to confident user of version control systems.
 
 ## Course Navigation
 
@@ -32,31 +32,30 @@ Welcome to your comprehensive guide for learning GitHub and Git fundamentals! Th
 ---
 
 
-## Class Structure
-
-### First Step: Create Your GitHub Account
+## First Step: Create Your GitHub Account
 
 - Go to [github.com](https://github.com) and create an account.
 - Verify your email address to complete setup.
 - We will continue with the rest of the setup after this step.
 
-### Second Step: Do "Introduction to GitHub"
+## Second Step: Do "Introduction to GitHub"
 
 - Open the GitHub Skills course: [Introduction to GitHub](https://github.com/skills/introduction-to-github)
 - Click "Start course" and follow the instructions in the generated repository.
 
-### Third Step: Create a Profile Card (Fork & Edit)
+## Third Step: Create a Profile Card (Fork & Edit)
 
 - Fork this repository: [joegeorge022/profile](https://github.com/joegeorge022/profile)
 - In your fork, edit the files (e.g., `index.html`, `README.md`) to add your name, bio, and links.
 - Commit and push your changes to your fork.
 - Optional: Enable GitHub Pages to view it at `https://YOUR-USERNAME.github.io/profile/`.
 
+---
 
 ### Post-Class Study Plan
-1. Review [Git Reference Guide](git/) - practice all commands
+1. View [Git Reference Guide](git/) - practice all commands
 2. Explore [GitHub Reference Guide](github/) - try collaboration features
-3. Complete the practice exercises in each section
+3. Watch video tutorials on youtube to learn and understand more. 
 4. Build your first project using both Git and GitHub
 
 ### Video Tutorial Git & Github
