@@ -40,13 +40,17 @@ Welcome to your comprehensive guide for learning GitHub and Git fundamentals! Th
 - Verify your email address to complete setup.
 - We will continue with the rest of the setup after this step.
 
+### Second Step: Do "Introduction to GitHub"
 
-### During the 1-Hour Session
-1. **Setup** (10 min): Install Git, create GitHub account
-2. **Git Basics** (20 min): First repository, basic commands
-3. **GitHub Introduction** (20 min): Push to GitHub, create pull request
-4. **Hands-on Practice** (10 min): Complete workflow exercise
+- Open the GitHub Skills course: [Introduction to GitHub](https://github.com/skills/introduction-to-github)
+- Click "Start course" and follow the instructions in the generated repository.
 
+### Third Step: Create a Profile Card (Fork & Edit)
+
+- Fork this repository: [joegeorge022/profile](https://github.com/joegeorge022/profile)
+- In your fork, edit the files (e.g., `index.html`, `README.md`) to add your name, bio, and links.
+- Commit and push your changes to your fork.
+- Optional: Enable GitHub Pages to view it at `https://YOUR-USERNAME.github.io/profile/`.
 
 
 ### Post-Class Study Plan
