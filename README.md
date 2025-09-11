@@ -51,7 +51,7 @@ Git is particularly useful when you and a group of people are all making changes
   </div>
 </div>
 
-## First Task: Do "Introduction to GitHub"
+## Task - 1: Do "Introduction to GitHub"
 
 - Open the GitHub Skills course: [Introduction to GitHub](https://github.com/skills/introduction-to-github)
 - Click "Start course" and follow the instructions in the generated repository.
@@ -59,7 +59,7 @@ Git is particularly useful when you and a group of people are all making changes
   <a href="https://github.com/skills/introduction-to-github" target="_blank" style="display: inline-block; padding: 10px 16px; background: #0969da; color: #fff; border-radius: 8px; text-decoration: none; font-weight: 600;">Go to the Course</a>
 </div>
 
-## Second Task: Create a Profile Card (Fork & Edit)
+## Task - 2: Create a Profile Card (Fork & Edit)
 
 - Fork this repository: [joegeorge022/profile](https://github.com/joegeorge022/profile)
 - In your fork, edit the files (e.g., `index.html`, `README.md`) to add your name, bio, and links.
