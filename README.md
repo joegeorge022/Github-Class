@@ -47,7 +47,7 @@ Git is particularly useful when you and a group of people are all making changes
     Create your GitHub account before starting the steps below.
   </div>
   <div style="margin-top: 12px;">
-    <a href="https://github.com" target="_blank" style="display: inline-block; padding: 10px 16px; background: #2ea043; color: #fff; border-radius: 8px; text-decoration: none; font-weight: 600;">Create Account on GitHub</a>
+    <a href="https://github.com/signup" target="_blank" style="display: inline-block; padding: 10px 16px; background: #2ea043; color: #fff; border-radius: 8px; text-decoration: none; font-weight: 600;">Create Account on GitHub</a>
   </div>
 </div>
 
@@ -56,7 +56,7 @@ Git is particularly useful when you and a group of people are all making changes
 - Open the GitHub Skills course: [Introduction to GitHub](https://github.com/skills/introduction-to-github)
 - Click "Start course" and follow the instructions in the generated repository.
 <div style="margin-top: 8px;">
-  <a href="https://github.com/skills/introduction-to-github" target="_blank" style="display: inline-block; padding: 10px 16px; background: #0969da; color: #fff; border-radius: 8px; text-decoration: none; font-weight: 600;">Start the Course</a>
+  <a href="https://github.com/skills/introduction-to-github" target="_blank" style="display: inline-block; padding: 10px 16px; background: #0969da; color: #fff; border-radius: 8px; text-decoration: none; font-weight: 600;">Go to the Course</a>
 </div>
 
 ## Second Step: Create a Profile Card (Fork & Edit)
