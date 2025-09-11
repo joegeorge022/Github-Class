@@ -35,7 +35,7 @@ This diagram shows:
 - The journey that feature takes through stages for "Commit changes," "Submit pull request," and "Discuss proposed changes" before it's merged into main
 
 <div style="margin: 16px 0; text-align: center;">
-  <img src="/github/branching.webp" alt="Branching diagram showing main and feature branches with commits and pull request flow" style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <img src="/github/branching.jpg" alt="Branching diagram showing main and feature branches with commits and pull request flow" style="max-width: 100%; height: auto; border-radius: 8px;" />
   <div style="font-size: 12px; color: #666; margin-top: 6px;">(Illustration: branching workflow)</div>
  </div>
 
