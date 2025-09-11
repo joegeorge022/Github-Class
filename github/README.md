@@ -19,7 +19,7 @@
 1. Go to [github.com](https://github.com){:target="_blank"}
 2. Click "Sign up"
 3. Choose a username (this will be part of your profile URL)
-4. Use your real email address
+4. Use your college email address. (Normally your personal email ID is preferred but you can get Github Education pack for free if you use your College email address)
 5. Verify your account
 
 ### Your First Repository
