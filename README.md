@@ -52,6 +52,8 @@ Welcome to your comprehensive guide for learning GitHub fundamentals! This cours
 
 ---
 
+
+
 ### Post-Class Study Plan
 1. View [Git Reference Guide](git/) - practice all commands
 2. Explore [GitHub Reference Guide](github/) - try collaboration features
@@ -89,7 +91,7 @@ Welcome to your comprehensive guide for learning GitHub fundamentals! This cours
 
 ## Additional Resources
 
-- [Official Git Documentation](https://git-scm.com/doc){:target="_blank"}
+- [About Git and Github](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git){:target="_blank"}
 - [Git Guides](https://github.com/git-guides){:target="_blank"}
 - [GitHub Guides](https://docs.github.com/en/get-started){:target="_blank"}
 
