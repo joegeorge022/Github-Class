@@ -31,7 +31,7 @@ This diagram shows:
 - A new branch called feature
 - The journey that feature takes through stages for "Commit changes," "Submit pull request," and "Discuss proposed changes" before it's merged into main
 
-  <img src="/github/branching.jpg" alt="Branching diagram showing main and feature branches with commits and pull request flow" style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <img src="branching.jpg" alt="Branching diagram showing main and feature branches with commits and pull request flow" style="max-width: 100%; height: auto; border-radius: 8px;" />
 
 ## 📖 Learning Resources
 
