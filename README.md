@@ -2,32 +2,35 @@
 
 Welcome to your comprehensive guide for learning GitHub fundamentals! This course will take you from beginner to confident user of version control systems.
 
-## Course Navigation
+## About GitHub
 
-<div style="display: flex; justify-content: center; gap: 40px; margin: 30px 0; text-align: center;">
-  
-  <a href="git/" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" 
-           alt="Git Logo" 
-           width="80" 
-           height="80" 
-           style="transition: transform 0.3s ease; border-radius: 8px;">
-      <span style="margin-top: 8px; font-size: 16px; font-weight: 500;">Git</span>
-    </div>
-  </a>
+<div style="display: flex; align-items: center; gap: 12px; margin: 8px 0 12px 0;">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="42" height="42" style="border-radius: 6px;" />
+  <strong>GitHub is a cloud-based platform where you can store, share, and collaborate on code.</strong>
+ </div>
 
-  <a href="github/" target="_blank" style="text-decoration: none; color: inherit;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
-           alt="GitHub Logo" 
-           width="80" 
-           height="80" 
-           style="transition: transform 0.3s ease; border-radius: 8px;">
-      <span style="margin-top: 8px; font-size: 16px; font-weight: 500;">GitHub</span>
-    </div>
-  </a>
-</div>
+Storing your code in a "repository" on GitHub allows you to:
+
+- Showcase or share your work.
+- Track and manage changes to your code over time.
+- Let others review your code, and make suggestions to improve it.
+- Collaborate on a shared project, without worrying that your changes will impact the work of your collaborators before you're ready to integrate them.
+
+Collaborative working, one of GitHub’s fundamental features, is made possible by the open-source software, Git, upon which GitHub is built.
+
+## About Git
+
+<div style="display: flex; align-items: center; gap: 12px; margin: 8px 0 12px 0;">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="42" height="42" style="border-radius: 6px;" />
+  <strong>Git is a version control system that intelligently tracks changes in files.</strong>
+ </div>
+
+Git is particularly useful when you and a group of people are all making changes to the same files at the same time. Typically, to do this in a Git-based workflow, you would:
+
+1. Create a branch off from the main copy of files that you (and your collaborators) are working on.
+2. Make edits to the files independently and safely on your own personal branch.
+3. Let Git intelligently merge your specific changes back into the main copy of files, so that your changes don't impact other people's updates.
+4. Let Git keep track of your and other people's changes, so you all stay working on the most up-to-date version of the project.
 
 ---
 
