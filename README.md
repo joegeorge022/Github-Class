@@ -1,6 +1,6 @@
-# Introduction to GitHub
+# Introduction to Git and GitHub
 
-Welcome to your comprehensive guide for learning GitHub fundamentals! This course will take you from beginner to confident user of version control systems.
+Welcome to your comprehensive guide for learning Git and GitHub fundamentals! This course will take you from beginner to confident user of version control systems.
 
 ## About GitHub
 
@@ -18,10 +18,7 @@ Storing your code in a "repository" on GitHub allows you to:
 
 Collaborative working, one of GitHub’s fundamental features, is made possible by the open-source software, Git, upon which GitHub is built.
 
-  <a href="github/" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="38" height="38" style="border-radius: 6px;" />
-    <span style="font-weight: 600;">Open GitHub Guide</span>
-  </a>
+  <a href="github/" style="text-decoration: none; color: inherit; display: inline-block; padding: 10px 14px; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa; font-weight: 600;">Open GitHub Guide →</a>
 
 ## About Git
 
@@ -37,10 +34,7 @@ Git is particularly useful when you and a group of people are all making changes
 3. Let Git intelligently merge your specific changes back into the main copy of files, so that your changes don't impact other people's updates.
 4. Let Git keep track of your and other people's changes, so you all stay working on the most up-to-date version of the project.
 
-  <a href="git/" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; gap: 10px; padding: 10px 14px; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa;">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="38" height="38" style="border-radius: 6px;" />
-    <span style="font-weight: 600;">Open Git Guide</span>
-  </a>
+  <a href="git/" style="text-decoration: none; color: inherit; display: inline-block; padding: 10px 14px; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa; font-weight: 600;">Open Git Guide →</a>
 
 ---
 

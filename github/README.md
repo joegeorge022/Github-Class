@@ -8,9 +8,6 @@
 </div>
 
 
-<div style="padding: 12px 14px; border: 1px solid #e5e7eb; background: #fafafa; border-radius: 8px; margin: 8px 0 16px 0;">
-  <strong>Concept-first:</strong> This page focuses on <em>theory and concepts</em> for understanding GitHub. For step-by-step commands, refer to the Git section of this course.
-</div>
 
 ## What is a Repository?
 
