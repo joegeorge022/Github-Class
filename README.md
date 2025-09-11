@@ -115,5 +115,3 @@ Git is particularly useful when you and a group of people are all making changes
 - [Git Guides](https://github.com/git-guides){:target="_blank"}
 - [GitHub Guides](https://docs.github.com/en/get-started){:target="_blank"}
 
----
-
