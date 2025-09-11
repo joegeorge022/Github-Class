@@ -8,12 +8,46 @@
 </div>
 
 
+<div style="padding: 12px 14px; border: 1px solid #e5e7eb; background: #fafafa; border-radius: 8px; margin: 8px 0 16px 0;">
+  <strong>Concept-first:</strong> This page focuses on <em>theory and concepts</em> for understanding GitHub. For step-by-step commands, refer to the Git section of this course.
+</div>
+
+## What is a Repository?
+
+You can think of a repository as a folder that contains related items, such as files, images, videos, or even other folders. A repository usually groups together items that belong to the same "project" or thing you're working on.
+
+Often, repositories include a README file, a file with information about your project. README files are written in Markdown, which is an easy-to-read, easy-to-write language for formatting plain text.
+
+## About Branching
+
+Branching lets you have different versions of a repository at one time.
+
+By default, your repository has one branch named main that is considered to be the definitive branch. You can create additional branches off of main in your repository.
+
+Branching is helpful when you want to add new features to a project without changing the main source of code. The work done on different branches will not show up on the main branch until you merge it, which we will cover later in this guide. You can use branches to experiment and make edits before committing them to main.
+
+When you create a branch off the main branch, you're making a copy, or snapshot, of main as it was at that point in time. If someone else made changes to the main branch while you were working on your branch, you could pull in those updates.
+
+This diagram shows:
+
+- The main branch
+- A new branch called feature
+- The journey that feature takes through stages for "Commit changes," "Submit pull request," and "Discuss proposed changes" before it's merged into main
+
+<div style="margin: 16px 0; text-align: center;">
+  <img src="/github/branching.webp" alt="Branching diagram showing main and feature branches with commits and pull request flow" style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <div style="font-size: 12px; color: #666; margin-top: 6px;">(Illustration: branching workflow)</div>
+ </div>
+
+
 ## 📖 Learning Resources
 
 - [GitHub Basics](https://docs.github.com/en/get-started){:target="_blank"}
 - [GitHub Advanced](https://skills.github.com/){:target="_blank"}
 
 ## 🚀 Getting Started with GitHub
+
+This section explains the core ideas behind accounts and repositories on GitHub. If you need terminal commands, see the Git guide in this course.
 
 ### Creating Your GitHub Account
 1. Go to [github.com](https://github.com){:target="_blank"}
