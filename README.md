@@ -18,7 +18,7 @@ Storing your code in a "repository" on GitHub allows you to:
 
 Collaborative working, one of GitHub’s fundamental features, is made possible by the open-source software, Git, upon which GitHub is built.
 
-  <a href="github/" style="text-decoration: none; color: inherit; display: inline-block; padding: 10px 14px; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa; font-weight: 600;">Open GitHub Guide →</a>
+  <a href="github/" target="_blank" style="text-decoration: none; color: inherit; display: inline-block; padding: 10px 14px; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa; font-weight: 600;">Open GitHub Guide →</a>
 
 ## About Git
 
@@ -34,7 +34,7 @@ Git is particularly useful when you and a group of people are all making changes
 3. Let Git intelligently merge your specific changes back into the main copy of files, so that your changes don't impact other people's updates.
 4. Let Git keep track of your and other people's changes, so you all stay working on the most up-to-date version of the project.
 
-  <a href="git/" style="text-decoration: none; color: inherit; display: inline-block; padding: 10px 14px; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa; font-weight: 600;">Open Git Guide →</a>
+  <a href="git/" target="_blank" style="text-decoration: none; color: inherit; display: inline-block; padding: 10px 14px; border: 1px solid #e5e7eb; border-radius: 10px; background: #fafafa; font-weight: 600;">Open Git Guide →</a>
 
 ---
 
